@@ -9,7 +9,7 @@ On Tuesday, we will learn the value of integrating multiple data modalities usin
 
 :white_check_mark: we've now finished our coding practice assignments, but there will be some notebooks for you to look at through the week (and beyond!) for this week's course content.
 
-On Thursday we will be working through two notebooks that use networks to model multiple data modalities. They will take advanatge of the [SNFPy](https://github.com/rmarkello/snfpy) package that implements the similarity network fusion method proposed in [Wang et al. Similarity network fusion for aggregating data types on a genomic scale. Nature Methods, 11(3), 333](https://europepmc.org/article/med/24464287). The first notebook implements a toy example and the second uses multiple networks and a fusion approach to integrate data for downstream analysis.
+On Thursday we will be working through two notebooks that use networks to model multiple data modalities. They will take advanatge of the [SNFPy](https://github.com/rmarkello/snfpy) package that implements the similarity network fusion method proposed in [Wang et al. Similarity network fusion for aggregating data types on a genomic scale. Nature Methods, 11(3), 333](https://europepmc.org/article/med/24464287). The first notebook implements a toy example and the second uses real world data to build multiple modality networks and a fusion approach to integrate data for downstream analysis.
 
 :white_check_mark: next week we only have one session, on Tuesday morning where I will be running through the course material, discussing the exam, and offering a Q&A session.
 
