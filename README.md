@@ -33,4 +33,5 @@ Please be sure to regularly check back to this website and/or pull the repositor
 - :white_check_mark: - [week 6 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week6)
 - :white_check_mark: - [week 7 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week7)
 - :white_check_mark: - [week 8 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week8)
-- :new: - [week 9 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week9) now available
+- :white_check_mark: - [week 9 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week9)
+- :new: - [week 10 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week10) now available
