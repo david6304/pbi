@@ -9,7 +9,7 @@ In our final revision session on Tuesday, we will run through the exam structure
 
 :white_check_mark: Please do use this time to ask any questions you may have, but we will also be monitoring the Piazza forum right up until the exam so you can as usual ask questions there too.
 
-:white_check_mark: Remember you can download last year's exam [here]() to give you a concrete example of the question style.
+:white_check_mark: Remember you can download last year's exam [here](https://exampapers.ed.ac.uk/search?query=INFR11260) to give you a concrete example of the question style.
 
 :white_check_mark: A key tip for the exam is to pay attention to how many marks a part is worth and apportion your time appropriately.
 
